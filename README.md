@@ -53,3 +53,5 @@ Train models for automated PD-L1 scoring
 ## Reference
 1. Zhang, X.; Zhou, X.; Lin, M.; Sun, J. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices, 2017. Available online: https://arxiv.org/pdf/1707.01083.
 2. Schmidt, U.; Weigert, M.; Broaddus, C.; Myers, G. Cell Detection with Star-convex Polygons 2018, 11071, 265–273, doi:10.1007/978-3-030-00934-2_30.
+3. Bankhead, P.; Loughrey, M.B.; Fernández, J.A.; Dombrowski, Y.; McArt, D.G.; Dunne, P.D.; McQuaid, S.; Gray, R.T.; Murray, L.J.; Coleman, H.G.; et al. QuPath: Open source software for digital pathology image analysis. Sci. Rep. 2017, 7, 16878, doi:10.1038/s41598-017-17204-5.
+4. The MathWorks, Inc. Deep Learning Toolbox. Available online: https://www.mathworks.com/help/deeplearning/
