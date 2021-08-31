@@ -1,8 +1,7 @@
 # Automated PD-L1 Scoring
 These files are part of a scientific paper and describe a workflow for automated PD-L1 assessment of Tumor Proportion Score (TPS), Combined Positive Score (CPS), and Immune Cell Score (ICS) with QuPath and MATLAB exemplified with head and neck squamous cell carcinoma (HNSCC). 
 
-> Puladi, B.; Ooms, M.; Kintsler, S.; Houschyar, K.S.; Steib, F.; Modabber, A.; Hölzle, F.; Knüchel-Clarke, R.; Braunschweig, T. Automated PD-L1 scoring using artificial intelligence in head and neck squamous cell carcinoma. Cancers 2021, 13, x. https://doi.org/10.3390/xxxxx (ACCEPTED)
-
+> Puladi, B.; Ooms, M.; Kintsler, S.; Houschyar, K.S.; Steib, F.; Modabber, A.; Hölzle, F.; Knüchel-Clarke, R.; Braunschweig, T. Automated PD-L1 Scoring Using Artificial Intelligence in Head and Neck Squamous Cell Carcinoma. Cancers 2021, 13, 4409. https://doi.org/10.3390/cancers13174409
 
 **NOT FOR DIAGNOSTIC USE!**
 
