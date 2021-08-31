@@ -39,7 +39,7 @@ Train models for automated PD-L1 scoring
 2. Detect cells:
     - Detect all cells inside annotations with the following script in QuPath: [step2_detectCells.groovy](workflow/step2_detectCells.groovy)
 3. Classify cells:
-    - Run classifier with the following script in QuPath: [step3_classifyCells.groovy](workflow/step3_classifyCells.groov)
+    - Run classifier with the following script in QuPath: [step3_classifyCells.groovy](workflow/step3_classifyCells.groovy)
 4. Calculate PD-L1 scores:
     - Calculate PD-L1 Scores with the following script in QuPath: [step4_calculateScores.groovy](workflow/step4_calculateScores.groovy)
 
