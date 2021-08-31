@@ -35,7 +35,7 @@ Train models for automated PD-L1 scoring
     - Create labelmap using pre-trained model in MATLAB: [step1_1_annotateTumor.m](workflow/step1_1_annotateTumor.m)
     - Create project and import WSIs + models (see dependency + models) + import labelmap
     - Prepare WSI with the  following script: [step_1_2_estimateBackgroundValues.groovy](dependency/step_1_2_estimateBackgroundValues.groovy)
-    - Import labelmap as an annotation into QuPath with the following script: [step_1_3_importBinaryLabelmaps.groovy ](dependency/step_1_3_importBinaryLabelmaps.groovy)
+    - Import labelmap as an annotation into QuPath with the following script: [step_1_3_importBinaryLabelmaps.groovy](dependency/step_1_3_importBinaryLabelmaps.groovy)
 2. Detect cells:
     - Detect all cells inside annotations with the following script in QuPath: [step2_detectCells.groovy](workflow/step2_detectCells.groovy)
 3. Classify cells:
