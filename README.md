@@ -28,7 +28,7 @@ Train models for automated PD-L1 scoring
     - Afterwards the merged tile images can be imported into QuPath and the cells can be recognized using the following script: [step2_detectCells.groovy](workflow/step2_detectCells.groovy)
     - By means of the function "Classify &#8594; Object classification &#8594; Train object classifier" a new classifier can be trained in QuPath.
     - The trained classifier can then be evaluated on another dataset with merged tile images. A helpful Groovy script for this: [validateMLP.groovy](training/validateMLP.groovy)
-    - A pre-trained model "MLP_LYM_TUM_STR.json" for HNSCC can be found under the folder [models](/models/).
+    - A pre-trained model "HNSCC_MLP_LYM_TUM_STR.json" for HNSCC can be found under the folder [models](/models/).
 
 ## Workflow
 1. Annotate tumor:
