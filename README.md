@@ -5,6 +5,9 @@ These files are part of a scientific paper and describe a workflow for automated
 
 **NOT FOR DIAGNOSTIC USE!**
 
+## Collaboration ##
+We are open for a further development. Feel free to contact us.
+
 ## Training data
 HNSCC cases from the [National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)](https://wiki.cancerimagingarchive.net/display/Public/CPTAC-HNSCC) were used to train the following models.
 
